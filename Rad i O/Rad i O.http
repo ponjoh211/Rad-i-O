@@ -1,0 +1,6 @@
+@Rad_i_O_HostAddress = http://localhost:5288
+
+GET {{Rad_i_O_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
